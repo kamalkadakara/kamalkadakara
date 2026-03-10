@@ -1,7 +1,7 @@
 # Hi, I'm Kamal Kadakara 👋
 
 **Automotive Test Engineer & Embedded Systems Developer**  
-📍 Wolfsburg, Germany → 🇦🇪 Relocating to UAE  
+📍 Wolfsburg, Germany 
 🎓 M.Sc. Embedded Systems — TU Chemnitz  
 🛡️ ISO 26262 Functional Safety Professional — TÜV SÜD (Level 1)
 

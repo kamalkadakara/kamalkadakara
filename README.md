@@ -3,7 +3,8 @@
 **Automotive Test Engineer & Embedded Systems Developer**  
 📍 Wolfsburg, Germany 
 🎓 M.Sc. Embedded Systems — TU Chemnitz  
-🛡️ ISO 26262 Functional Safety Professional — TÜV SÜD (Level 1)
+🎓 Bachelor of Engineering (B.E.) – Electronics and Communication Engineering
+🛡️ ISO 26262 Functional Safety Professional — TÜV SÜD (Level 1), ISTQB Advanced level Test Management, Google cyber security certified.
 
 ---
 

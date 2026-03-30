@@ -19,10 +19,9 @@
 
 ---
 
-### 🚀 Projects
-- 🌐 **[RuDoEu](https://rudoeu.com)**https://rudoeu.com** — Real-time financial dashboard for NRIs (India 🇮🇳 · Europe 🇪🇺 · USA 🇺🇸)
-- 🔗 **[GitHub Portfolio](https://github.com/kamalkadakara)** — 10+ automotive embedded systems projects
-
+🚀 Projects
+* 🌐 **RuDoEu** — Real-time NRI financial dashboard (India 🇮🇳 · Europe 🇪🇺 · USA 🇺🇸) · [rudoeu.com](https://rudoeu.com)
+* 🔗 **GitHub Portfolio** — 10+ automotive embedded systems projects · [github.com/kamalkadakara](https://github.com/kamalkadakara)
 ---
 
 ### 🛠️ Skills
